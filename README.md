@@ -2,9 +2,8 @@
 
 이 프로젝트는 Discord 서버를 위한 다기능 봇으로, 사다리 타기 게임과 투표 시스템을 제공합니다.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/027bf661-0567-4a3a-908a-151c8d7985fb" alt="Discord Bot Example" />
-</div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/03893a98-2038-48a0-9f29-d3c8e3e974fe" alt="Discord Bot" /> </div>
+
 
 ## 주요 기능
 
