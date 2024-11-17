@@ -17,19 +17,7 @@
    - 사용자들은 이모지 반응으로 투표에 참여합니다.
    - `/투표종료` 명령어로 진행 중인 투표를 마감하고 결과를 확인할 수 있습니다.
 
-## TOKEN과 CLIENT_ID
 
-### TOKEN:
-- Discord 봇의 인증 토큰을 의미합니다.
-- 이는 봇이 Discord API와 통신할 때 자신을 인증하는 데 사용되는 비밀 키입니다.
-- Discord Developer Portal(https://discord.com/developers/applications)에서 봇을 생성한 후 얻을 수 있습니다.
-- 애플리케이션 페이지의 "Bot" 섹션에서 "Token" 항목을 확인하거나 재생성할 수 있습니다.
-- 이 토큰은 절대 공개되어서는 안 되며, 안전하게 보관해야 합니다.
-
-### CLIENT_ID:
-- Discord 애플리케이션의 고유 식별자입니다.
-- Discord Developer Portal의 애플리케이션 페이지에서 "General Information" 섹션의 "Application ID"에서 찾을 수 있습니다.
-- 이 ID는 봇을 서버에 초대하거나 API 요청을 할 때 사용됩니다.
 
 ## 사용 방법
 
